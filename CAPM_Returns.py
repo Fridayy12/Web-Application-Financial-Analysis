@@ -100,3 +100,6 @@ except:
     st.write("Please select valid inputs")
 
 
+cd C:\Users\email\Web-Application-Financial-Analysis\CAPM_Returns.py
+streamlit run CAPM_Returns.py
+C:\Users\email\Web-Application-Financial-Analysis\CAPM_Returns.py
